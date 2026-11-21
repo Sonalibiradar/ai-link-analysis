@@ -1,306 +1,435 @@
-{
-  "success": true,
-  "website": "https://acme.test/",
-  "brand": {
-    "name": "Acme Web Studio",
-    "category": "Web Development",
-    "summary": "Builds websites.",
-    "main_products_services": [
-      "Web design",
-      "E-commerce"
-    ]
-  },
-  "analysis": {
-    "competitor_analysis": {
-      "brand_overview": "Small-business web studio.",
-      "brand_profile": {
-        "main_service": "Web design",
-        "target_market": "Small businesses",
-        "key_strength": "Affordable",
-        "opportunity": "Improve visibility"
-      },
-      "competitors": [
-        {
-          "name": "Wix",
-          "website": "wix.com",
-          "main_service": "Site builder",
-          "target_market": "SMBs",
-          "strengths": [
-            "Brand"
-          ],
-          "weaknesses_or_gaps": [
-            "Generic"
-          ],
-          "source": "ai_suggested",
-          "verified": false
-        },
-        {
-          "name": "Squarespace",
-          "website": "squarespace.com",
-          "main_service": "",
-          "target_market": "",
-          "strengths": [],
-          "weaknesses_or_gaps": [],
-          "source": "ai_suggested",
-          "verified": false
-        },
-        {
-          "name": "Webflow",
-          "website": "webflow.com",
-          "main_service": "",
-          "target_market": "",
-          "strengths": [],
-          "weaknesses_or_gaps": [],
-          "source": "ai_suggested",
-          "verified": false
-        }
-      ],
-      "comparison_table": [
-        {
-          "comparison": "Brand Name",
-          "your_brand": "Acme Web Studio",
-          "competitors": [
-            {
-              "name": "Wix",
-              "value": "Wix"
-            },
-            {
-              "name": "Squarespace",
-              "value": "Squarespace"
-            },
-            {
-              "name": "Webflow",
-              "value": "Webflow"
-            }
-          ]
-        },
-        {
-          "comparison": "Main Service",
-          "your_brand": "Web design",
-          "competitors": [
-            {
-              "name": "Wix",
-              "value": "Site builder"
-            },
-            {
-              "name": "Squarespace",
-              "value": "-"
-            },
-            {
-              "name": "Webflow",
-              "value": "-"
-            }
-          ]
-        },
-        {
-          "comparison": "Target Market",
-          "your_brand": "Small businesses",
-          "competitors": [
-            {
-              "name": "Wix",
-              "value": "SMBs"
-            },
-            {
-              "name": "Squarespace",
-              "value": "-"
-            },
-            {
-              "name": "Webflow",
-              "value": "-"
-            }
-          ]
-        },
-        {
-          "comparison": "Key Strength",
-          "your_brand": "Affordable",
-          "competitors": [
-            {
-              "name": "Wix",
-              "value": "Brand"
-            },
-            {
-              "name": "Squarespace",
-              "value": "-"
-            },
-            {
-              "name": "Webflow",
-              "value": "-"
-            }
-          ]
-        },
-        {
-          "comparison": "Opportunity",
-          "your_brand": "Improve visibility",
-          "competitors": [
-            {
-              "name": "Wix",
-              "value": "Generic"
-            },
-            {
-              "name": "Squarespace",
-              "value": "-"
-            },
-            {
-              "name": "Webflow",
-              "value": "-"
-            }
-          ]
-        }
-      ],
-      "strengths": [
-        "Affordable"
-      ],
-      "opportunities": [
-        "Add case studies"
-      ],
-      "note": "Competitors are AI-generated suggestions (verified: false); validate them before using them commercially."
-    },
-    "target_search_queries": [
-      {
-        "query": "q0",
-        "platforms": [
-          "X",
-          "Google"
-        ],
-        "intent": "Service Discovery",
-        "business_relevance": "",
-        "target_audience": ""
-      },
-      {
-        "query": "q1",
-        "platforms": [
-          "X",
-          "Google"
-        ],
-        "intent": "Service Discovery",
-        "business_relevance": "",
-        "target_audience": ""
-      },
-      {
-        "query": "q2",
-        "platforms": [
-          "X",
-          "Google"
-        ],
-        "intent": "Service Discovery",
-        "business_relevance": "",
-        "target_audience": ""
-      },
-      {
-        "query": "q3",
-        "platforms": [
-          "X",
-          "Google"
-        ],
-        "intent": "Service Discovery",
-        "business_relevance": "",
-        "target_audience": ""
-      },
-      {
-        "query": "q4",
-        "platforms": [
-          "X",
-          "Google"
-        ],
-        "intent": "Service Discovery",
-        "business_relevance": "",
-        "target_audience": ""
-      }
-    ],
-    "seo_improvements": {
-      "primary_keyword": "web design pune",
-      "secondary_keywords": [
-        "single string"
-      ],
-      "long_tail_keywords": [],
-      "business_keywords": [],
-      "recommended_title": "Web Design Pune | Acme",
-      "title_structure": "",
-      "meta_description": "Affordable sites.",
-      "supporting_content": [
-        {
-          "type": "FAQ",
-          "title": "How much is a site?",
-          "rationale": "r"
-        }
-      ]
-    },
-    "top_services": [
-      {
-        "name": "S0",
-        "description": "d",
-        "target_industry": "",
-        "target_customer": "",
-        "main_benefit": "",
-        "source": "inferred"
-      },
-      {
-        "name": "S1",
-        "description": "d",
-        "target_industry": "",
-        "target_customer": "",
-        "main_benefit": "",
-        "source": "website"
-      },
-      {
-        "name": "S2",
-        "description": "d",
-        "target_industry": "",
-        "target_customer": "",
-        "main_benefit": "",
-        "source": "website"
-      },
-      {
-        "name": "S3",
-        "description": "d",
-        "target_industry": "",
-        "target_customer": "",
-        "main_benefit": "",
-        "source": "website"
-      },
-      {
-        "name": "S4",
-        "description": "d",
-        "target_industry": "",
-        "target_customer": "",
-        "main_benefit": "",
-        "source": "website"
-      }
-    ],
-    "target_audience": {
-      "primary_audience": [
-        "Small businesses"
-      ],
-      "secondary_audience": [],
-      "industries": [],
-      "business_types": [],
-      "customer_profiles": [],
-      "geographic_focus": "",
-      "customer_needs": [],
-      "customer_challenges": [],
-      "customer_interests": [],
-      "recommended_segments": []
-    }
-  },
-  "meta": {
-    "llm": {
-      "provider": "anthropic",
-      "model": "claude-haiku-5-5",
-      "input_tokens": 7000,
-      "output_tokens": 2500,
-      "latency_ms": 1200,
-      "estimated_cost_usd": 0.00195,
-      "used_fallback": false
-    },
-    "cached": false,
-    "pages_analyzed": [
-      "https://acme.test/"
-    ],
-    "content_chars_sent": 675,
-    "total_time_ms": 0,
-    "warnings": [
-      "Very little text was found on the page; results may be generic or less reliable."
-    ],
-    "disclaimer": "Competitors and search queries are AI-generated suggestions based on the website content; no search-volume or ranking data is included because none was sourced from a data provider."
-  }
+﻿{
+    "success":  true,
+    "website":  "https://www.zoho.com/",
+    "brand":  {
+                  "name":  "Zoho",
+                  "category":  "Cloud Software Suite \u0026 SaaS",
+                  "summary":  "Zoho offers a unique and powerful cloud software suite and online productivity tools designed to cover end-to-end business needs for companies of all sizes.",
+                  "main_products_services":  [
+                                                 "CRM",
+                                                 "Mail",
+                                                 "Creator",
+                                                 "Books",
+                                                 "Desk",
+                                                 "Bigin",
+                                                 "Zoho One",
+                                                 "Zia Agent Studio"
+                                             ]
+              },
+    "analysis":  {
+                     "competitor_analysis":  {
+                                                 "brand_overview":  "Zoho provides a comprehensive suite of online productivity tools and SaaS applications, enabling businesses to manage sales, marketing, finance, HR, and customer support. Operating on a customer-first philosophy and high-investment R\u0026D model, Zoho owns its entire technology stack.",
+                                                 "brand_profile":  {
+                                                                       "main_service":  "Cloud software suite and business applications",
+                                                                       "target_market":  "Businesses of all sizes from startups to large enterprises",
+                                                                       "key_strength":  "Comprehensive all-in-one ecosystem with strong privacy commitments and value pricing",
+                                                                       "opportunity":  "Expand enterprise-level market share through dedicated professional services and advanced AI agents"
+                                                                   },
+                                                 "competitors":  [
+                                                                     {
+                                                                         "name":  "Microsoft",
+                                                                         "website":  "microsoft.com",
+                                                                         "main_service":  "Productivity software and cloud services",
+                                                                         "target_market":  "Global enterprises and small businesses",
+                                                                         "strengths":  [
+                                                                                           "Ubiquitous market presence",
+                                                                                           "Deep enterprise integration with Office 365"
+                                                                                       ],
+                                                                         "weaknesses_or_gaps":  [
+                                                                                                    "Can be expensive and complex for smaller businesses"
+                                                                                                ],
+                                                                         "source":  "ai_suggested",
+                                                                         "verified":  false
+                                                                     },
+                                                                     {
+                                                                         "name":  "Salesforce",
+                                                                         "website":  "salesforce.com",
+                                                                         "main_service":  "Customer relationship management (CRM)",
+                                                                         "target_market":  "Mid-market to large enterprise sales teams",
+                                                                         "strengths":  [
+                                                                                           "Industry-leading CRM capabilities",
+                                                                                           "Extensive app marketplace"
+                                                                                       ],
+                                                                         "weaknesses_or_gaps":  [
+                                                                                                    "High cost of implementation and licensing fees"
+                                                                                                ],
+                                                                         "source":  "ai_suggested",
+                                                                         "verified":  false
+                                                                     },
+                                                                     {
+                                                                         "name":  "Google Workspace",
+                                                                         "website":  "workspace.google.com",
+                                                                         "main_service":  "Collaboration and productivity apps",
+                                                                         "target_market":  "Businesses of all sizes",
+                                                                         "strengths":  [
+                                                                                           "Strong real-time collaboration tools",
+                                                                                           "High user familiarity"
+                                                                                       ],
+                                                                         "weaknesses_or_gaps":  [
+                                                                                                    "Lacks deep native specialized apps like full accounting or advanced HR"
+                                                                                                ],
+                                                                         "source":  "ai_suggested",
+                                                                         "verified":  false
+                                                                     },
+                                                                     {
+                                                                         "name":  "Freshworks",
+                                                                         "website":  "freshworks.com",
+                                                                         "main_service":  "Business software suite",
+                                                                         "target_market":  "Small and medium businesses",
+                                                                         "strengths":  [
+                                                                                           "User-friendly interfaces",
+                                                                                           "Fast deployment times"
+                                                                                       ],
+                                                                         "weaknesses_or_gaps":  [
+                                                                                                    "Narrower breadth of total applications compared to Zoho One"
+                                                                                                ],
+                                                                         "source":  "ai_suggested",
+                                                                         "verified":  false
+                                                                     }
+                                                                 ],
+                                                 "comparison_table":  [
+                                                                          {
+                                                                              "comparison":  "Brand Name",
+                                                                              "your_brand":  "Zoho",
+                                                                              "competitors":  [
+                                                                                                  {
+                                                                                                      "name":  "Microsoft",
+                                                                                                      "value":  "Microsoft"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Salesforce",
+                                                                                                      "value":  "Salesforce"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Google Workspace",
+                                                                                                      "value":  "Google Workspace"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Freshworks",
+                                                                                                      "value":  "Freshworks"
+                                                                                                  }
+                                                                                              ]
+                                                                          },
+                                                                          {
+                                                                              "comparison":  "Main Service",
+                                                                              "your_brand":  "Cloud software suite and business applications",
+                                                                              "competitors":  [
+                                                                                                  {
+                                                                                                      "name":  "Microsoft",
+                                                                                                      "value":  "Productivity software and cloud services"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Salesforce",
+                                                                                                      "value":  "Customer relationship management (CRM)"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Google Workspace",
+                                                                                                      "value":  "Collaboration and productivity apps"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Freshworks",
+                                                                                                      "value":  "Business software suite"
+                                                                                                  }
+                                                                                              ]
+                                                                          },
+                                                                          {
+                                                                              "comparison":  "Target Market",
+                                                                              "your_brand":  "Businesses of all sizes from startups to large enterprises",
+                                                                              "competitors":  [
+                                                                                                  {
+                                                                                                      "name":  "Microsoft",
+                                                                                                      "value":  "Global enterprises and small businesses"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Salesforce",
+                                                                                                      "value":  "Mid-market to large enterprise sales teams"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Google Workspace",
+                                                                                                      "value":  "Businesses of all sizes"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Freshworks",
+                                                                                                      "value":  "Small and medium businesses"
+                                                                                                  }
+                                                                                              ]
+                                                                          },
+                                                                          {
+                                                                              "comparison":  "Key Strength",
+                                                                              "your_brand":  "Comprehensive all-in-one ecosystem with strong privacy commitments and value pricing",
+                                                                              "competitors":  [
+                                                                                                  {
+                                                                                                      "name":  "Microsoft",
+                                                                                                      "value":  "Ubiquitous market presence"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Salesforce",
+                                                                                                      "value":  "Industry-leading CRM capabilities"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Google Workspace",
+                                                                                                      "value":  "Strong real-time collaboration tools"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Freshworks",
+                                                                                                      "value":  "User-friendly interfaces"
+                                                                                                  }
+                                                                                              ]
+                                                                          },
+                                                                          {
+                                                                              "comparison":  "Opportunity",
+                                                                              "your_brand":  "Expand enterprise-level market share through dedicated professional services and advanced AI agents",
+                                                                              "competitors":  [
+                                                                                                  {
+                                                                                                      "name":  "Microsoft",
+                                                                                                      "value":  "Can be expensive and complex for smaller businesses"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Salesforce",
+                                                                                                      "value":  "High cost of implementation and licensing fees"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Google Workspace",
+                                                                                                      "value":  "Lacks deep native specialized apps like full accounting or advanced HR"
+                                                                                                  },
+                                                                                                  {
+                                                                                                      "name":  "Freshworks",
+                                                                                                      "value":  "Narrower breadth of total applications compared to Zoho One"
+                                                                                                  }
+                                                                                              ]
+                                                                          }
+                                                                      ],
+                                                 "strengths":  [
+                                                                   "Offers 50+ integrated applications under unified platforms like Zoho One",
+                                                                   "Strong privacy and security policy with no ad-based revenue models",
+                                                                   "Extensive global presence serving millions of users across 150 countries",
+                                                                   "Proprietary technology stack backed by continuous heavy R\u0026D investments"
+                                                               ],
+                                                 "opportunities":  [
+                                                                       "Enhance enterprise adoption through tailored cloud infrastructure solutions",
+                                                                       "Scale AI-driven offerings like Zia Agent Studio for automated workforce tasks"
+                                                                   ],
+                                                 "note":  "Competitors are AI-generated suggestions (verified: false); validate them before using them commercially."
+                                             },
+                     "target_search_queries":  [
+                                                   {
+                                                       "query":  "cloud software suite for businesses",
+                                                       "platforms":  [
+                                                                         "Google"
+                                                                     ],
+                                                       "intent":  "Service Discovery",
+                                                       "business_relevance":  "Captures users looking for an end-to-end operational software platform.",
+                                                       "target_audience":  "Business owners and IT decision-makers"
+                                                   },
+                                                   {
+                                                       "query":  "all in one business CRM and productivity tools",
+                                                       "platforms":  [
+                                                                         "Google",
+                                                                         "LinkedIn"
+                                                                     ],
+                                                       "intent":  "Commercial Investigation",
+                                                       "business_relevance":  "Targets businesses seeking integrated tools for sales, marketing, and support.",
+                                                       "target_audience":  "Sales managers and operations leaders"
+                                                   },
+                                                   {
+                                                       "query":  "secure ad-free business email solution",
+                                                       "platforms":  [
+                                                                         "Google"
+                                                                     ],
+                                                       "intent":  "Service Discovery",
+                                                       "business_relevance":  "Drives traffic to specific core communication products like Zoho Mail.",
+                                                       "target_audience":  "IT administrators and startup founders"
+                                                   },
+                                                   {
+                                                       "query":  "no code custom app builder for business",
+                                                       "platforms":  [
+                                                                         "Google",
+                                                                         "X"
+                                                                     ],
+                                                       "intent":  "Solution Evaluation",
+                                                       "business_relevance":  "Attracts users seeking custom workflow automation via Zoho Creator.",
+                                                       "target_audience":  "Developers and business analysts"
+                                                   },
+                                                   {
+                                                       "query":  "affordable operating system for business software",
+                                                       "platforms":  [
+                                                                         "Facebook",
+                                                                         "LinkedIn"
+                                                                     ],
+                                                       "intent":  "Brand Awareness",
+                                                       "business_relevance":  "Promotes Zoho One as a comprehensive, cost-effective business suite.",
+                                                       "target_audience":  "Entrepreneurs and growing company executives"
+                                                   }
+                                               ],
+                     "seo_improvements":  {
+                                              "primary_keyword":  "cloud software suite",
+                                              "secondary_keywords":  [
+                                                                         "business applications",
+                                                                         "online productivity tools",
+                                                                         "integrated CRM software"
+                                                                     ],
+                                              "long_tail_keywords":  [
+                                                                         "all in one business operating system",
+                                                                         "secure business email and productivity suite",
+                                                                         "custom app builder for businesses"
+                                                                     ],
+                                              "business_keywords":  [
+                                                                        "Zoho",
+                                                                        "Zoho One",
+                                                                        "Zia Agent Studio"
+                                                                    ],
+                                              "recommended_title":  "Cloud Software Suite | Zoho Business Applications",
+                                              "title_structure":  "Primary Keyword | Brand and Category Modifier",
+                                              "meta_description":  "Run your entire business with Zoho\u0027s cloud software suite. Discover powerful tools for sales, marketing, finance, HR, and custom app building.",
+                                              "supporting_content":  [
+                                                                         {
+                                                                             "type":  "Service landing page",
+                                                                             "title":  "Zoho One: The Operating System for Business",
+                                                                             "rationale":  "Deep dive into the 50+ application ecosystem for comprehensive business operations."
+                                                                         },
+                                                                         {
+                                                                             "type":  "Industry page",
+                                                                             "title":  "Zoho for Enterprise Solutions",
+                                                                             "rationale":  "Highlights enterprise-grade security, scalability, and dedicated professional services."
+                                                                         },
+                                                                         {
+                                                                             "type":  "Blog topic",
+                                                                             "title":  "How AI Agents are Transforming Workplace Productivity",
+                                                                             "rationale":  "Explores the use cases of Zia Agent Studio for automating business tasks."
+                                                                         },
+                                                                         {
+                                                                             "type":  "FAQ",
+                                                                             "title":  "Data Privacy and Security at Zoho",
+                                                                             "rationale":  "Addresses customer concerns regarding data ownership, advertising models, and security compliance."
+                                                                         },
+                                                                         {
+                                                                             "type":  "Article",
+                                                                             "title":  "Building a Sustainable Tech Company: The Zoho Story",
+                                                                             "rationale":  "Builds brand trust by highlighting long-term commitment, R\u0026D focus, and philosophy."
+                                                                         },
+                                                                         {
+                                                                             "type":  "Location page",
+                                                                             "title":  "Zoho Middle East \u0026 Africa: Empowering the UAE Digital Economy",
+                                                                             "rationale":  "Showcases local data centers and regional infrastructure commitments."
+                                                                         }
+                                                                     ]
+                                          },
+                     "top_services":  [
+                                          {
+                                              "name":  "Zoho CRM",
+                                              "description":  "Manage your sales, marketing, and support in one CRM platform.",
+                                              "target_industry":  "All industries",
+                                              "target_customer":  "Sales and marketing teams",
+                                              "main_benefit":  "Centralizes customer interactions and pipeline management",
+                                              "source":  "website"
+                                          },
+                                          {
+                                              "name":  "Zoho Mail",
+                                              "description":  "Simple, secure, and ad-free business email for your organization.",
+                                              "target_industry":  "All industries",
+                                              "target_customer":  "Organizations and IT teams",
+                                              "main_benefit":  "Provides secure, private corporate communication",
+                                              "source":  "website"
+                                          },
+                                          {
+                                              "name":  "Zoho Creator",
+                                              "description":  "Build custom apps for your unique business needs with no-code tools.",
+                                              "target_industry":  "All industries",
+                                              "target_customer":  "Business analysts and developers",
+                                              "main_benefit":  "Enables creation of tailored workflow applications",
+                                              "source":  "website"
+                                          },
+                                          {
+                                              "name":  "Zoho Books",
+                                              "description":  "Simple accounting software to manage your finances.",
+                                              "target_industry":  "Finance and Corporate Services",
+                                              "target_customer":  "Finance teams and business owners",
+                                              "main_benefit":  "Simplifies financial tracking and accounting processes",
+                                              "source":  "website"
+                                          },
+                                          {
+                                              "name":  "Zoho One",
+                                              "description":  "The operating system for business offering 50+ unified applications.",
+                                              "target_industry":  "All industries",
+                                              "target_customer":  "Startups, mid-sized companies, and enterprises",
+                                              "main_benefit":  "Runs entire business operations on a single integrated platform",
+                                              "source":  "website"
+                                          }
+                                      ],
+                     "target_audience":  {
+                                             "primary_audience":  [
+                                                                      "Business owners",
+                                                                      "Startup founders",
+                                                                      "Enterprise executives",
+                                                                      "IT administrators"
+                                                                  ],
+                                             "secondary_audience":  [
+                                                                        "Sales managers",
+                                                                        "Marketing professionals",
+                                                                        "Finance teams",
+                                                                        "Customer support teams"
+                                                                    ],
+                                             "industries":  [
+                                                                "Technology",
+                                                                "Finance",
+                                                                "Retail",
+                                                                "Manufacturing",
+                                                                "Professional Services"
+                                                            ],
+                                             "business_types":  [
+                                                                    "Startups",
+                                                                    "Small and medium-sized businesses",
+                                                                    "Large enterprises"
+                                                                ],
+                                             "customer_profiles":  [
+                                                                       "Cost-conscious startup founders looking for all-in-one software",
+                                                                       "Enterprise leaders seeking scalable digital transformation platforms",
+                                                                       "IT managers prioritizing data privacy and secure infrastructure"
+                                                                   ],
+                                             "geographic_focus":  "Global across 150 countries with dedicated regional focuses such as the UAE and India",
+                                             "customer_needs":  [
+                                                                    "End-to-end business operations management",
+                                                                    "Affordable and transparent software licensing",
+                                                                    "Strong data privacy guarantees",
+                                                                    "Seamless app integration"
+                                                                ],
+                                             "customer_challenges":  [
+                                                                         "Managing multiple disconnected software tools",
+                                                                         "High software acquisition and scaling costs",
+                                                                         "Data privacy concerns with ad-supported platforms",
+                                                                         "Complex enterprise IT deployments"
+                                                                     ],
+                                             "customer_interests":  [
+                                                                        "Cloud productivity tools",
+                                                                        "AI-driven workflow automation",
+                                                                        "Custom application development",
+                                                                        "Business growth and digital transformation"
+                                                                    ],
+                                             "recommended_segments":  [
+                                                                          "SMBs seeking a unified alternative to multiple SaaS subscriptions",
+                                                                          "Enterprises requiring localized, secure cloud data management"
+                                                                      ]
+                                         }
+                 },
+    "meta":  {
+                 "llm":  {
+                             "provider":  "gemini",
+                             "model":  "gemini-3.5-flash-lite",
+                             "input_tokens":  2359,
+                             "output_tokens":  2642,
+                             "latency_ms":  7715,
+                             "estimated_cost_usd":  0.007313,
+                             "used_fallback":  false
+                         },
+                 "cached":  false,
+                 "pages_analyzed":  [
+                                        "https://www.zoho.com/"
+                                    ],
+                 "content_chars_sent":  5744,
+                 "total_time_ms":  7936,
+                 "warnings":  [
+
+                              ],
+                 "disclaimer":  "Competitors and search queries are AI-generated suggestions based on the website content; no search-volume or ranking data is included because none was sourced from a data provider."
+             }
 }
