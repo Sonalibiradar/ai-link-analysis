@@ -8,7 +8,7 @@ import logging
 
 from fastapi import FastAPI, Request
 from fastapi.exceptions import RequestValidationError
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, RedirectResponse
 
 from app.errors import AppError
 from app.schemas import ErrorBody, ErrorResponse, LinkAnalysisRequest, LinkAnalysisResponse
@@ -58,6 +58,9 @@ async def unhandled_error_handler(_: Request, exc: Exception) -> JSONResponse:
     logger.exception("Unhandled error")
     return _error(500, "internal_error", "An unexpected error occurred.")
 
+@app.get("/", include_in_schema=False)
+def root() -> RedirectResponse:
+    return RedirectResponse(url="/docs")
 
 @app.get("/health", tags=["meta"])
 def health() -> dict:
