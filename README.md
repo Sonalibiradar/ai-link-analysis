@@ -92,7 +92,7 @@ Request:
 
 Response shape (trimmed). The full file is in [`docs/sample_response.json`](docs/sample_response.json).
 
-> ⚠️ That file was produced by the **test fixture with a fake LLM** to show the exact response structure — it is **not** output from a live model run.
+> This is a real response from a live run (provider: Gemini, model: gemini-3.5-flash-lite) for https://www.zoho.com.
 
 ```json
 {
