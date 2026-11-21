@@ -1,0 +1,4 @@
+...................................................sssss                 [100%]
+=========================== short test summary info ============================
+SKIPPED [5] tests/test_link_analysis.py:404: could not import 'fastapi': No module named 'fastapi'
+51 passed, 5 skipped in 0.31s

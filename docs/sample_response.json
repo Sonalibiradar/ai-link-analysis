@@ -1,0 +1,306 @@
+{
+  "success": true,
+  "website": "https://acme.test/",
+  "brand": {
+    "name": "Acme Web Studio",
+    "category": "Web Development",
+    "summary": "Builds websites.",
+    "main_products_services": [
+      "Web design",
+      "E-commerce"
+    ]
+  },
+  "analysis": {
+    "competitor_analysis": {
+      "brand_overview": "Small-business web studio.",
+      "brand_profile": {
+        "main_service": "Web design",
+        "target_market": "Small businesses",
+        "key_strength": "Affordable",
+        "opportunity": "Improve visibility"
+      },
+      "competitors": [
+        {
+          "name": "Wix",
+          "website": "wix.com",
+          "main_service": "Site builder",
+          "target_market": "SMBs",
+          "strengths": [
+            "Brand"
+          ],
+          "weaknesses_or_gaps": [
+            "Generic"
+          ],
+          "source": "ai_suggested",
+          "verified": false
+        },
+        {
+          "name": "Squarespace",
+          "website": "squarespace.com",
+          "main_service": "",
+          "target_market": "",
+          "strengths": [],
+          "weaknesses_or_gaps": [],
+          "source": "ai_suggested",
+          "verified": false
+        },
+        {
+          "name": "Webflow",
+          "website": "webflow.com",
+          "main_service": "",
+          "target_market": "",
+          "strengths": [],
+          "weaknesses_or_gaps": [],
+          "source": "ai_suggested",
+          "verified": false
+        }
+      ],
+      "comparison_table": [
+        {
+          "comparison": "Brand Name",
+          "your_brand": "Acme Web Studio",
+          "competitors": [
+            {
+              "name": "Wix",
+              "value": "Wix"
+            },
+            {
+              "name": "Squarespace",
+              "value": "Squarespace"
+            },
+            {
+              "name": "Webflow",
+              "value": "Webflow"
+            }
+          ]
+        },
+        {
+          "comparison": "Main Service",
+          "your_brand": "Web design",
+          "competitors": [
+            {
+              "name": "Wix",
+              "value": "Site builder"
+            },
+            {
+              "name": "Squarespace",
+              "value": "-"
+            },
+            {
+              "name": "Webflow",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "comparison": "Target Market",
+          "your_brand": "Small businesses",
+          "competitors": [
+            {
+              "name": "Wix",
+              "value": "SMBs"
+            },
+            {
+              "name": "Squarespace",
+              "value": "-"
+            },
+            {
+              "name": "Webflow",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "comparison": "Key Strength",
+          "your_brand": "Affordable",
+          "competitors": [
+            {
+              "name": "Wix",
+              "value": "Brand"
+            },
+            {
+              "name": "Squarespace",
+              "value": "-"
+            },
+            {
+              "name": "Webflow",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "comparison": "Opportunity",
+          "your_brand": "Improve visibility",
+          "competitors": [
+            {
+              "name": "Wix",
+              "value": "Generic"
+            },
+            {
+              "name": "Squarespace",
+              "value": "-"
+            },
+            {
+              "name": "Webflow",
+              "value": "-"
+            }
+          ]
+        }
+      ],
+      "strengths": [
+        "Affordable"
+      ],
+      "opportunities": [
+        "Add case studies"
+      ],
+      "note": "Competitors are AI-generated suggestions (verified: false); validate them before using them commercially."
+    },
+    "target_search_queries": [
+      {
+        "query": "q0",
+        "platforms": [
+          "X",
+          "Google"
+        ],
+        "intent": "Service Discovery",
+        "business_relevance": "",
+        "target_audience": ""
+      },
+      {
+        "query": "q1",
+        "platforms": [
+          "X",
+          "Google"
+        ],
+        "intent": "Service Discovery",
+        "business_relevance": "",
+        "target_audience": ""
+      },
+      {
+        "query": "q2",
+        "platforms": [
+          "X",
+          "Google"
+        ],
+        "intent": "Service Discovery",
+        "business_relevance": "",
+        "target_audience": ""
+      },
+      {
+        "query": "q3",
+        "platforms": [
+          "X",
+          "Google"
+        ],
+        "intent": "Service Discovery",
+        "business_relevance": "",
+        "target_audience": ""
+      },
+      {
+        "query": "q4",
+        "platforms": [
+          "X",
+          "Google"
+        ],
+        "intent": "Service Discovery",
+        "business_relevance": "",
+        "target_audience": ""
+      }
+    ],
+    "seo_improvements": {
+      "primary_keyword": "web design pune",
+      "secondary_keywords": [
+        "single string"
+      ],
+      "long_tail_keywords": [],
+      "business_keywords": [],
+      "recommended_title": "Web Design Pune | Acme",
+      "title_structure": "",
+      "meta_description": "Affordable sites.",
+      "supporting_content": [
+        {
+          "type": "FAQ",
+          "title": "How much is a site?",
+          "rationale": "r"
+        }
+      ]
+    },
+    "top_services": [
+      {
+        "name": "S0",
+        "description": "d",
+        "target_industry": "",
+        "target_customer": "",
+        "main_benefit": "",
+        "source": "inferred"
+      },
+      {
+        "name": "S1",
+        "description": "d",
+        "target_industry": "",
+        "target_customer": "",
+        "main_benefit": "",
+        "source": "website"
+      },
+      {
+        "name": "S2",
+        "description": "d",
+        "target_industry": "",
+        "target_customer": "",
+        "main_benefit": "",
+        "source": "website"
+      },
+      {
+        "name": "S3",
+        "description": "d",
+        "target_industry": "",
+        "target_customer": "",
+        "main_benefit": "",
+        "source": "website"
+      },
+      {
+        "name": "S4",
+        "description": "d",
+        "target_industry": "",
+        "target_customer": "",
+        "main_benefit": "",
+        "source": "website"
+      }
+    ],
+    "target_audience": {
+      "primary_audience": [
+        "Small businesses"
+      ],
+      "secondary_audience": [],
+      "industries": [],
+      "business_types": [],
+      "customer_profiles": [],
+      "geographic_focus": "",
+      "customer_needs": [],
+      "customer_challenges": [],
+      "customer_interests": [],
+      "recommended_segments": []
+    }
+  },
+  "meta": {
+    "llm": {
+      "provider": "anthropic",
+      "model": "claude-haiku-5-5",
+      "input_tokens": 7000,
+      "output_tokens": 2500,
+      "latency_ms": 1200,
+      "estimated_cost_usd": 0.00195,
+      "used_fallback": false
+    },
+    "cached": false,
+    "pages_analyzed": [
+      "https://acme.test/"
+    ],
+    "content_chars_sent": 675,
+    "total_time_ms": 0,
+    "warnings": [
+      "Very little text was found on the page; results may be generic or less reliable."
+    ],
+    "disclaimer": "Competitors and search queries are AI-generated suggestions based on the website content; no search-volume or ranking data is included because none was sourced from a data provider."
+  }
+}

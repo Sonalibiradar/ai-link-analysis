@@ -1,0 +1,11 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.0
+python-dotenv>=1.0
+
+# tests
+pytest>=8.0
+httpx>=0.27   # required by fastapi.testclient (endpoint tests are skipped without it)
