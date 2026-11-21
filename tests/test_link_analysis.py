@@ -80,6 +80,15 @@ LLM_JSON = {
 
 
 @pytest.fixture(autouse=True)
+def isolate_env(monkeypatch):
+    """Tests must not depend on the developer's local .env."""
+    monkeypatch.setenv("LLM_PROVIDER", "anthropic")
+    monkeypatch.setenv("LLM_MODEL", "claude-haiku-5-5")
+    monkeypatch.setenv("FALLBACK_LLM_PROVIDER", "anthropic")
+    monkeypatch.setenv("FALLBACK_LLM_MODEL", "claude-sonnet-5-5")
+
+
+@pytest.fixture(autouse=True)
 def fake_dns(monkeypatch):
     """Resolve hostnames without the network: private-looking names map to private IPs."""
     real = socket.getaddrinfo
